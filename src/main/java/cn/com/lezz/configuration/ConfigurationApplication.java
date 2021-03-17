@@ -1,4 +1,4 @@
-package com.github.jackbytes.configuration;
+package cn.com.lezz.configuration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

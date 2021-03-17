@@ -1,4 +1,4 @@
-package com.github.jackbytes.configuration;
+package cn.com.lezz.configuration;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -8,6 +8,9 @@ class ConfigurationApplicationTests {
 
     @Test
     void contextLoads() {
+
+
+
     }
 
 }
