@@ -1,6 +1,6 @@
-package cn.com.lezz.configuration.common;
+package cn.com.lezz.framework.common;
 
-import cn.com.lezz.configuration.common.exception.ProjectException;
+import cn.com.lezz.framework.common.exception.ProjectException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 

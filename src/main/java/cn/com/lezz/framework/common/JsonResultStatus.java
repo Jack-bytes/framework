@@ -1,4 +1,4 @@
-package cn.com.lezz.configuration.common;
+package cn.com.lezz.framework.common;
 
 public enum JsonResultStatus {
 

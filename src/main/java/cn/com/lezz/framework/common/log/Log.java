@@ -1,4 +1,4 @@
-package cn.com.lezz.configuration.common.log;
+package cn.com.lezz.framework.common.log;
 
 import org.slf4j.Logger;
 
