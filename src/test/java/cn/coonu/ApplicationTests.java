@@ -1,4 +1,4 @@
-package cn.com.lezz.framework;
+package cn.coonu;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

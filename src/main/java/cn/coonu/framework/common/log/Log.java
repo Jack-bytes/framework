@@ -1,4 +1,4 @@
-package cn.com.lezz.framework.common.log;
+package cn.coonu.framework.common.log;
 
 import org.slf4j.Logger;
 

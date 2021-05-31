@@ -1,4 +1,4 @@
-package cn.com.lezz.framework.common;
+package cn.coonu.framework.common;
 
 public class JsonResult<T> {
 

@@ -1,4 +1,4 @@
-package cn.com.lezz.framework.common.exception;
+package cn.coonu.framework.common.exception;
 
 public class ProjectException extends RuntimeException {
 
